@@ -30,6 +30,11 @@ contributions:
       name: "BoltMan"
     url: "https://thumbs.gfycat.com/SaneBelovedHerring-size_restricted.gif"
     source: "https://github.com/BoltManGuy/Brownian-Snowflake-Optimized"
+ - title: "Multicolored Snowflake"
+    author:
+      name: "Eliott Donatien"
+    url: "https://codepen.io/eli0ttd0natien/pen/LMLKLv"
+    source: "https://github.com/Eli0ttD0NATIEN/Multicolored_Snowflake"
 ---
 
 In this holiday themed coding challenge, I make a Brownian Tree Snowflake in Processing(Java). This video was recorded as part of a fundraiser for the [Processing Foundation](https://processingfoundation.org/support/).
